@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1051822521660",
+    "firebase_url": "https://missingchild-1fa8e-default-rtdb.firebaseio.com",
+    "project_id": "missingchild-1fa8e",
+    "storage_bucket": "missingchild-1fa8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051822521660:android:b1f3cf95f1646bae9b3239",
+        "android_client_info": {
+          "package_name": "com.aaditya.findmissingperson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051822521660-jod0pu5vdncvhu3bpsnst5ijgjic6l5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw9O5ang3x7BPiRvFyjm_mc9qclMgxGiM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051822521660-jod0pu5vdncvhu3bpsnst5ijgjic6l5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
