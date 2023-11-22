@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.prithak.findmissingperson">
+    package="com.aaditya.findmissingperson">
 
     <uses-permission android:name="android.permission.CAMERA" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
@@ -34,92 +34,92 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name="com.prithak.findmissingperson.Dashboard.FaceRecognizeActivity"
+            android:name="com.aaditya.findmissingperson.Dashboard.FaceRecognizeActivity"
             android:theme="@style/AppTheme.NoActionBar"
             android:exported="false" />
         <activity
-            android:name="com.prithak.findmissingperson.Dashboard.Activities.WelcomeActivity"
+            android:name="com.aaditya.findmissingperson.Dashboard.Activities.WelcomeActivity"
             android:exported="true"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.prithak.findmissingperson.Dashboard.Activities.StatsDetailActivity"
+            android:name="com.aaditya.findmissingperson.Dashboard.Activities.StatsDetailActivity"
             android:exported="false"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.prithak.findmissingperson.Dashboard.Activities.StatsViewActivity"
+            android:name="com.aaditya.findmissingperson.Dashboard.Activities.StatsViewActivity"
             android:exported="false"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.prithak.findmissingperson.Dashboard.Activities.StatsActivity"
+            android:name="com.aaditya.findmissingperson.Dashboard.Activities.StatsActivity"
             android:exported="false"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.prithak.findmissingperson.Dashboard.Activities.TwoButtonActivity"
+            android:name="com.aaditya.findmissingperson.Dashboard.Activities.TwoButtonActivity"
             android:exported="false"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.prithak.findmissingperson.Dashboard.Fragments.CasesViewActivity"
+            android:name="com.aaditya.findmissingperson.Dashboard.Fragments.CasesViewActivity"
             android:exported="false"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.prithak.findmissingperson.Dashboard.Fragments.ChatNewActiivty"
+            android:name="com.aaditya.findmissingperson.Dashboard.Fragments.ChatNewActiivty"
             android:exported="false"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.prithak.findmissingperson.Dashboard.MainActivity"
+            android:name="com.aaditya.findmissingperson.Dashboard.MainActivity"
             android:exported="false" />
         <activity
-            android:name="com.prithak.findmissingperson.Dashboard.Activities.UpheavMapActivity"
+            android:name="com.aaditya.findmissingperson.Dashboard.Activities.UpheavMapActivity"
             android:exported="false" />
         <activity
-            android:name="com.prithak.findmissingperson.Dashboard.Activities.FindPoliceStationAct"
+            android:name="com.aaditya.findmissingperson.Dashboard.Activities.FindPoliceStationAct"
             android:exported="false" />
         <activity
-            android:name="com.prithak.findmissingperson.Dashboard.Activities.Fp_Report_Details"
+            android:name="com.aaditya.findmissingperson.Dashboard.Activities.Fp_Report_Details"
             android:exported="false"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.prithak.findmissingperson.Dashboard.Activities.Edit_fp_cases"
+            android:name="com.aaditya.findmissingperson.Dashboard.Activities.Edit_fp_cases"
             android:exported="false"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.prithak.findmissingperson.Dashboard.Activities.Edit_mp_cases"
+            android:name="com.aaditya.findmissingperson.Dashboard.Activities.Edit_mp_cases"
             android:exported="false" />
         <activity
-            android:name="com.prithak.findmissingperson.Dashboard.Activities.Your_fp_cases"
+            android:name="com.aaditya.findmissingperson.Dashboard.Activities.Your_fp_cases"
             android:exported="false"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.prithak.findmissingperson.Dashboard.Activities.Your_MP_Cases"
+            android:name="com.aaditya.findmissingperson.Dashboard.Activities.Your_MP_Cases"
             android:exported="false" />
         <activity
-            android:name="com.prithak.findmissingperson.Dashboard.Activities.Mp_complete_cases"
+            android:name="com.aaditya.findmissingperson.Dashboard.Activities.Mp_complete_cases"
             android:exported="false" />
         <activity
-            android:name="com.prithak.findmissingperson.Authentication.AuthActivity"
+            android:name="com.aaditya.findmissingperson.Authentication.AuthActivity"
             android:exported="false" />
         <activity
-            android:name="com.prithak.findmissingperson.Dashboard.Activities.MyProfile"
+            android:name="com.aaditya.findmissingperson.Dashboard.Activities.MyProfile"
             android:exported="false"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.prithak.findmissingperson.Dashboard.Activities.MessageActivity"
+            android:name="com.aaditya.findmissingperson.Dashboard.Activities.MessageActivity"
             android:exported="false" />
         <activity
-            android:name="com.prithak.findmissingperson.Dashboard.Activities.Create_Mp_Case"
+            android:name="com.aaditya.findmissingperson.Dashboard.Activities.Create_Mp_Case"
             android:exported="false" />
         <activity
-            android:name="com.prithak.findmissingperson.Dashboard.Activities.Create_Fp_Case"
+            android:name="com.aaditya.findmissingperson.Dashboard.Activities.Create_Fp_Case"
             android:exported="false"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="com.prithak.findmissingperson.Dashboard.Dashboard"
+            android:name="com.aaditya.findmissingperson.Dashboard.Dashboard"
             android:exported="false" />
         <activity
-            android:name="com.prithak.findmissingperson.Helper.ImagePickerActivity"
+            android:name="com.aaditya.findmissingperson.Helper.ImagePickerActivity"
             android:exported="false" />
         <activity
-            android:name="com.prithak.findmissingperson.SplashScreen"
+            android:name="com.aaditya.findmissingperson.SplashScreen"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -145,7 +145,7 @@
         <!-- ........................................................................................................ -->
         <!-- Firebase FCM -->
         <service
-            android:name="com.prithak.findmissingperson.Notification.MyFirebaseInstanceIdService"
+            android:name="com.aaditya.findmissingperson.Notification.MyFirebaseInstanceIdService"
             android:exported="false">
             <intent-filter>
                 <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
@@ -157,7 +157,7 @@
             android:value="@string/google_maps_key" />
 
         <service
-            android:name="com.prithak.findmissingperson.Notification.MyFirebaseMessagingService"
+            android:name="com.aaditya.findmissingperson.Notification.MyFirebaseMessagingService"
             android:exported="true"
             android:permission="com.google.android.c2dm.permission.SEND">
             <intent-filter>
